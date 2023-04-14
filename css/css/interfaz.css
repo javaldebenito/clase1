@@ -1,0 +1,51 @@
+#datospersonales{
+    resize: none;
+}
+
+.centrado{
+    text-align: center;
+    vertical-align: middle;
+}
+
+body{
+    background: #7F7FD5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #91EAE4, #86A8E7, #7F7FD5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+h1{
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+    
+}
+
+h2{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.nombresanimales{
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 30px;
+    padding: 15px 30px;
+    padding-right: 90px;
+    background-color:#7F7FD5;
+    background-size: 15px 30px;
+    color:aliceblue;
+}
+
+.contenedor{
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
